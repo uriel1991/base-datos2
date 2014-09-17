@@ -1,2 +1,2 @@
-base-datos2
+Curso de base-datos II Oracle
 ===========
