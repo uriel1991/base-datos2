@@ -1,1 +1,47 @@
 Temario Base de Datos ll
+
+1. Introducción
+    1.1 Bases de datos orientadas a objetos
+1.2 Arquitectura de bases de datos orientadas a objetos
+ 2. SQL, operaciones básicas
+    2.1 Definición de datos en SQL
+2.2 Cláusula create
+    2.3 Sintaxis de select
+ 2.4 Selección de columnas con select
+ 2.5 Cláusula from y where
+2.6 Operadores de comparación
+          2.6.1 Between
+ 2.6.2 In y not in
+          2.6.3 Like
+ 2.6.4 Is null y is not null
+ 2.6.5 Operadores lógicos
+ 2.7 Cláusula group by
+    2.8 Cláusula order by
+ 2.9 Operación join
+2.10 Operaciones left, outer y joins
+    2.11 Operador unión
+examen
+3. SQL, reglas de validación
+    3.1 Constraints
+ 3.2 Triggers
+
+ 3.3 Vistas
+4. SQL, programación
+    4.1 Store procedures
+   4.2 Instrucciones de programación
+ 4.3 Store procedures que regresan parámetros
+    4.4 Manipulación de transacciones
+5. Arquitectura cliente servidor (un caso práctico)
+    5.1 Las responsabilidades del servidor
+5.2 Las responsabilidades del cliente
+ 5.3 Requerimientos de hardware
+    5.4 Requerimientos de software
+6. Otros temas (como temas de investigación)
+ 
+
+    6.1 Modelo de red
+ 6.2 Modelo jerárquico
+    6.3 Bases de datos distribuidas
+  6.3 Bases de datos distribuidas (continuacion)
+     6.3 Bases de datos distribuidas (continuacion final)
+examen
